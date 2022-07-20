@@ -1,5 +1,5 @@
 
-<img src="(https://www.canva.com/design/DAFG9Uz8SK4/z7M46S-k3uPu1NNWKBRBpQ/view?utm_content=DAFG9Uz8SK4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" width="100%">
+<img src="https://www.canva.com/design/DAFG9Uz8SK4/z7M46S-k3uPu1NNWKBRBpQ/view?utm_content=DAFG9Uz8SK4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100%">
 
 <p align="center">
   <a href="https://azeezroheem.netlify.app" target="_blank">
