@@ -1,5 +1,5 @@
 
-<img src="https://drive.google.com/file/d/1qzZW4Aq5JXgBfiJTf3cAk8Yyeb3EIrp9/view?usp=sharing" width="100%">
+<img src="https://github.com/Azeez1314/Azeez1314/blob/main/images/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="100%">
 
 <p align="center">
   <a href="https://azeezroheem.netlify.app" target="_blank">
