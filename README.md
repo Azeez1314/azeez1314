@@ -87,7 +87,7 @@ See [my website](https://azeezroheem.netlify.app) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">Madrasatut Tarbiyah</h3>
         <br />
         <a target="_blank" href="https://madrasatuttarbiyah.com/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
